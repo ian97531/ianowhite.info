@@ -1,0 +1,46 @@
+body, html {
+	background-color: white;
+	color: rgb(65,65,62);
+	font-size:8px;
+	border:none;
+	background-image:none;
+}
+
+body > div {
+	margin:10px;
+	background-color:white;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	box-shadow:none;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border:none;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-top:5em;
+	padding-bottom:0px;
+}
+
+header {
+	margin-bottom: 1em;
+}
+
+section {
+  margin-top:1em;
+}
+
+li {
+  margin-bottom:0.5em;
+}
+
+p {
+  line-height:1.5em;
+}
+
+a#pdf {
+	display:none;
+}
+
+
+
+
